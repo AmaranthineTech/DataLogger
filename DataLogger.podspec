@@ -29,7 +29,7 @@ Pod::Spec.new do |spec|
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  spec.source       = { :path => '.' }
+  spec.source       = { :git => "https://github.com/arunrpatwardhan/DataLogger.git", :tag=> "1.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
